@@ -1,1 +1,1 @@
-# C-Advanced-Plus-Logger-Class
+# C++-Advanced-Plus-Logger-Class
