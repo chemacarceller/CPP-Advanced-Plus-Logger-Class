@@ -10,6 +10,8 @@ The "enhanced" part means that the class developed as a singleton in the advance
 
 This version would be suitable for scripts that are called recursively.
 
+The QuickFolderSynchro application, written in Python for fast folder synchronization, uses this class in one of its versions.
+
 =================================================================
 
 Clase MyLogger avanzada plus escrita en C++ para la creación de un registro de logs
@@ -21,3 +23,5 @@ Esta versión es una versión plus de la version avanzada del repositorio anteri
 El plus significa que la clase desarrollada como singleton en la versión avanzada se modifica para que el patrón de diseño singleton sea aplicable a subprocesos donde se instancie esta clase 
 
 Esta versión sería la adecuada para scripts que se llamaran de forma recursiva
+
+La aplicación QuickFolderSynchro escrita en python para la sincronización rápida de carpetas, en una de sus versiones utiliza esta clase
